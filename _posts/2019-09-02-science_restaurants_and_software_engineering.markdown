@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Science_Restaurants_&_Software_Engineering"
-date:       2019-09-02 06:26:58 +0000
+date:       2019-09-02 02:26:59 -0400
 permalink:  science_restaurants_and_software_engineering
 ---
 

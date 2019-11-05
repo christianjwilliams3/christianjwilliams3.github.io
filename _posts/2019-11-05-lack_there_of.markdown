@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Lack_There_Of"
-date:       2019-11-05 05:50:16 +0000
+date:       2019-11-05 00:50:16 -0500
 permalink:  lack_there_of
 ---
 

@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Happy_SQL! "
+date:       2019-12-01 22:24:34 +0000
+permalink:  happy_sql
+---
+
+
+Comprehension has been something I have stuggled with so far in my journey into programming. Charts and data are something I have always been comfortable with in programs like excel etc. Moving into SQL I feel as I am understanding that relationship with much more ease moreso than OOP. The relationships are much more clear and I can picture them in my head as I am writing the methods! 
